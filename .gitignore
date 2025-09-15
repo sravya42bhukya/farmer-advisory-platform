@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+build/
+dist/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# others
+*.log
+*.mp4
